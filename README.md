@@ -7,5 +7,5 @@ This is the nft contract:
 
 - Transaction Detail: [Goerli_Etherscan](https://goerli.etherscan.io/tx/0x907851e088464b425af70a811097e4e62dac1bbdbc33b0baab6a5cdfceb32b6d)
 
-- NFT image minted: 
-![alt text](https://ipfs.io/ipfs/QmNnMVA74JU4kEjbzhFe4n1gtEJC85djDKG6zqP2QKUuqb?filename=Ninjatic.full.571768.jpg)
+- [NFT image minted](https://ipfs.io/ipfs/QmNnMVA74JU4kEjbzhFe4n1gtEJC85djDKG6zqP2QKUuqb?filename=Ninjatic.full.571768.jpg): 
+![ipfs uploaded image](https://ipfs.io/ipfs/QmNnMVA74JU4kEjbzhFe4n1gtEJC85djDKG6zqP2QKUuqb?filename=Ninjatic.full.571768.jpg)
